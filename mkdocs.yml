@@ -3,7 +3,7 @@ site_url: https://revolutionart.github.io/REVOpacityCutout.github.io/
 repo_url: https://github.com/revolutionart/REVOpacityCutout.github.io
 repo_name: revolutionart/REVOpacityCutout.github.io
 theme:
-  name: material
+  name: readthedocs
 nav:
   - Home: index.md
 markdown_extensions:
