@@ -1,0 +1,12 @@
+site_name: REV Opacity Cutout
+site_url: https://revolutionart.github.io/REVOpacityCutout.github.io/
+repo_url: https://github.com/revolutionart/REVOpacityCutout.github.io
+repo_name: revolutionart/REVOpacityCutout.github.io
+theme:
+  name: material
+nav:
+  - Home: index.md
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
