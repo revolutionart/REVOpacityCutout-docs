@@ -1,0 +1,33 @@
+/* Custom theme color overrides */
+
+/* Top navigation bar (mobile) */
+.wy-nav-top {
+    background: #0037FF;
+}
+
+/* Sidebar search area */
+.wy-side-nav-search {
+    background-color: #0037FF;
+}
+
+.wy-side-nav-search input[type=text] {
+    border-color: #0029cc;
+}
+
+.wy-side-nav-search img {
+    background-color: #0037FF;
+}
+
+/* Nav top image background */
+.wy-nav-top img {
+    background-color: #0037FF;
+}
+
+/* Sidebar menu link hover/active */
+.wy-nav .wy-menu-vertical a:hover {
+    background-color: #0037FF;
+}
+
+.wy-menu-vertical a:active {
+    background-color: #0037FF;
+}

@@ -14,6 +14,5 @@ Recommended order:
 - Install required Python dependencies from the add-on panel
 - Run a first cutout on a masked plane to verify everything works
 
-## Next
 
 Continue to [Introduction](introduction.md).

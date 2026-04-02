@@ -2,18 +2,98 @@
 
 This page tracks official walkthrough videos for REVO Opacity Cutout workflows.
 
-## Current source videos
+## Practical Example
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+    src="https://www.youtube.com/embed/KWkxsLi3nug"
+    title="Plugin Demo"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 
-- `HowTo_R_TreeSway.mp4`
-- `HowTo_B_BranchSway.mp4`
+---
+## Tree Vertex Paint Tools
+### Tree Red Channel Vertex Paint
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+    src="https://www.youtube.com/embed/CZbU3Utw8AQ"
+    title="Plugin Demo"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 
-## Suggested publishing order
+---
+### Tree Green Channel Vertex Paint
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+    src="https://www.youtube.com/embed/dn8OMFnBgZM"
+    title="Plugin Demo"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 
-1. Quick start: installation + first cutout on a plane
-2. Cutout modes: 2D Contour vs 3D Grid Mask vs 3D Precise
-3. Quality presets and advanced overrides
-4. Vertex painter channels (R/G/B/A) for foliage workflows
+---
+### Tree Blue Channel Vertex Paint
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+    src="https://www.youtube.com/embed/-Xp5PBVD-Go"
+    title="Plugin Demo"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 
-## Public links
+---
+## Plant Vertex Paint Tools
+### Plant Red Channel Vertex Paint
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+    src="https://www.youtube.com/embed/QxMS_NIwR7M"
+    title="Plugin Demo"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 
-Add hosted links (YouTube, Vimeo, or internal portal) when available.
+---
+
+### Plant Green Channel Vertex Paint
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+    src="https://www.youtube.com/embed/eEJVfoqxIkU"
+    title="Plugin Demo"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
+
+---
+
+### Plant Blue Channel Vertex Paint
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+    src="https://www.youtube.com/embed/RGYxwfxNPRE"
+    title="Plugin Demo"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
+
+---

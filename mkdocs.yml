@@ -1,8 +1,13 @@
-site_name: REV Opacity Cutout
+﻿site_name: REV Opacity Cutout
 repo_url: https://github.com/revolutionart/REVOpacityCutout.github.io
 repo_name: revolutionart/REVOpacityCutout.github.io
 theme:
   name: readthedocs
+extra_css:
+  - stylesheets/custom.css
+plugins:
+  - search
+  - glightbox
 nav:
   - Home: index.md
   - Getting Started:
@@ -10,7 +15,14 @@ nav:
       - Introduction: getting-started/introduction.md
       - Learning Videos: getting-started/learning-videos.md
       - Installation and Update: getting-started/installation-and-update.md
+  - User Guide - How to Use:
+      - CutoutOpacity: user-guide/user-interface.md
+      - Foliage Vertex Painter: user-guide/foliage-vertex-painter.md
+      - FAQ: user-guide/FAQ.md
+  - EXAMPLES:
+      - Example 1: examples/example1.md
 markdown_extensions:
   - admonition
   - toc:
       permalink: true
+
