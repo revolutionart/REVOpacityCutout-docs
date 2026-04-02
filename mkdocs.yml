@@ -1,6 +1,6 @@
 ﻿site_name: REV Opacity Cutout
-repo_url: https://github.com/revolutionart/REVOpacityCutout.github.io
-repo_name: revolutionart/REVOpacityCutout.github.io
+repo_url: https://github.com/revolutionart/REVOpacityCutout-docs
+repo_name: revolutionart/REVOpacityCutout-docs
 theme:
   name: readthedocs
 extra_css:
