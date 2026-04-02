@@ -13,11 +13,12 @@ nav:
   - Getting Started:
       - Overview: getting-started/index.md
       - Introduction: getting-started/introduction.md
-      - Learning Videos: getting-started/learning-videos.md
       - Installation and Update: getting-started/installation-and-update.md
+      - Learning Videos: getting-started/learning-videos.md
   - User Guide - How to Use:
       - CutoutOpacity: user-guide/user-interface.md
       - Foliage Vertex Painter: user-guide/foliage-vertex-painter.md
+      - Dependencies: user-guide/dependencies.md
       - FAQ: user-guide/FAQ.md
   - EXAMPLES:
       - Example 1: examples/example1.md
