@@ -2,7 +2,9 @@
 
 ## REVO Opacity Cutout Blender Addon
 
-REVO Opacity Cutout converts texture masks into clean cutout geometry directly in Blender, making it easier to create game-ready foliage and decals. Built for Unreal Engine 5 workflows with Nanite in mind, it can also be used with SpeedTree and includes a Megascans-style vertex color painter for advanced wind setup on trees and vegetation.
+REVO Opacity Cutout converts texture masks into clean cutout geometry directly in Blender, making it easier to create game-ready foliage and decals. Built for Unreal Engine 5 workflows with Nanite in mind, it can also be used with SpeedTree and includes vertex painter tools for advanced wind setup on trees and vegetation.
+
+The foliage vertex paint workflow is inspired by the Megascans vegetation material workflow shown in [this reference video](https://youtu.be/6qtqVPqiwI4). The system is designed to work with Megascans UE5 vegetation materials as well as similar custom foliage shaders.
 
 ## Main Features
 

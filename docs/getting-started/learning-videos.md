@@ -2,6 +2,12 @@
 
 This page tracks official walkthrough videos for REVO Opacity Cutout workflows.
 
+## External Inspiration
+
+The foliage vertex paint workflow in REVO Opacity Cutout is inspired by the Megascans vegetation material workflow shown in the video below. The same setup approach is intended to work with Megascans UE5 vegetation materials as well as similar custom foliage shaders.
+
+- [Megascans vegetation workflow reference](https://youtu.be/6qtqVPqiwI4)
+
 ## Practical Example
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe
