@@ -23,6 +23,8 @@ nav:
       - FAQ: user-guide/FAQ.md
   - EXAMPLES:
       - Example 1: examples/example1.md
+      - Example 2 (Moss Cut Out): examples/example2.md
+      - Example 3 (UnrealEngine 5): examples/example3.md
 markdown_extensions:
   - admonition
   - toc:

@@ -18,3 +18,11 @@ If the install fails, both packages can be installed manually by running the fol
 ```
 python -m pip install opencv-python pyclipper
 ```
+!!! tip "Tip"
+    During installation, allow the process to complete, as it may take a moment. When the installation finishes, Blender will show a notification in the Status Bar at the bottom of the window. If you happen to miss it, you can also check the console for the same confirmation message, including the notice that Blender needs to be restarted.
+
+<p align="center">
+	<a class="glightbox" href="../../assets/img/dependencies_notinstalled.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom">
+		<img src="../../assets/img/dependencies_notinstalled.png" alt="Opacity cutout sample" width="580">
+	</a>
+</p>
