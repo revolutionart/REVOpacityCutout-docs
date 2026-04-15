@@ -6,3 +6,12 @@ Use the navigation on the left to get started.
         <img src="assets/img/addon_header.png" alt="Opacity cutout sample" width="700">
     </a>
 </p>
+
+---
+
+## Special Thanks
+
+We want to say Thanks to all users for your support!
+
+- *Nathan Lebon* [Portfolio](https://www.artstation.com/lebongameart)
+- *Rico Peters* [Portfolio](https://www.artstation.com/ryko777)
