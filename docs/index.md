@@ -11,7 +11,7 @@ Use the navigation on the left to get started.
 
 ## Special Thanks
 
-We want to say Thanks to all users for your support!
+A big thank you to everyone who tested the add-on and provided valuable feedback during development.
 
 - *Nathan Lebon* [Portfolio](https://www.artstation.com/lebongameart)
 - *Rico Peters* [Portfolio](https://www.artstation.com/ryko777)
